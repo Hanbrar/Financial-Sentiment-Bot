@@ -12,5 +12,6 @@ Using this dataset https://huggingface.co/datasets/mltrev23/financial-sentiment-
 
 [More information about this project will be added in the coming days!] 
 
+Also there is issue with the juytper notebook so you will need to clone the repo and run it locally. 
 
 
