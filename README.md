@@ -11,6 +11,7 @@ Using https://huggingface.co/soleimanian/financial-roberta-large-sentiment, fine
 Using this dataset https://huggingface.co/datasets/mltrev23/financial-sentiment-analysis
 
 
-Also there is issue with the juytper notebook so you will need to clone the repo and run it locally. 
+**Also there is issue with the juytper notebook so you will need to clone the repo and run it locally. 😊 **
+
 
 
