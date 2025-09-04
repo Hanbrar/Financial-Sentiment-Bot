@@ -1,4 +1,4 @@
-# CryptoStock_BotTrader
+# Financial Sentiment Bot
 
 ## Project Purpose
 
